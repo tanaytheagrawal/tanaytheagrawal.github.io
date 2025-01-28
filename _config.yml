@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
+=======
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+>>>>>>> 0492b9eeca5cd2fe7eec5929cf29f9f1d62ab5e4
 - jekyll-remote-theme # add this line to the plugins list if you already have one
